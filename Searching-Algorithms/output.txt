@@ -1,0 +1,1 @@
+Enter the size of the array: Enter 5 elements separated by spaces: Enter the target element to search: Element found at index 2
